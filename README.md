@@ -1,16 +1,9 @@
 # user_authentication_app
 
+![flutter_logo](https://user-images.githubusercontent.com/108392662/191526508-39a3a0f1-41b4-46b1-82a2-0754eac264c5.png)
+
 A new Flutter project.
 
-## Getting Started
+# Sample video
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/108392662/196056979-114eb276-5b80-48f0-b4de-36f1b61006cc.mp4
